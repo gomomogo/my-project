@@ -1,13 +1,13 @@
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª½âÑ¹
-tar -xvf file.tar //½âÑ¹ tar°ü
+ï»¿â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”è§£å‹
+tar -xvf file.tar //è§£å‹ taråŒ…
 
-tar -xzvf file.tar.gz //½âÑ¹tar.gz
+tar -xzvf file.tar.gz //è§£å‹tar.gz
 
-tar -xjvf file.tar.bz2   //½âÑ¹ tar.bz2
+tar -xjvf file.tar.bz2   //è§£å‹ tar.bz2
 
-¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ªÑ¹Ëõ
-tar -cvf jpg.tar *.jpg //½«Ä¿Â¼ÀïËùÓĞjpgÎÄ¼ş´ò°ü³Étar.jpg 
+â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”å‹ç¼©
+tar -cvf jpg.tar *.jpg //å°†ç›®å½•é‡Œæ‰€æœ‰jpgæ–‡ä»¶æ‰“åŒ…æˆtar.jpg 
 
-tar -czf jpg.tar.gz *.jpg   //½«Ä¿Â¼ÀïËùÓĞjpgÎÄ¼ş´ò°ü³Éjpg.tarºó£¬²¢ÇÒ½«ÆäÓÃgzipÑ¹Ëõ£¬Éú³ÉÒ»¸ögzipÑ¹Ëõ¹ıµÄ°ü£¬ÃüÃûÎªjpg.tar.gz
+tar -czf jpg.tar.gz *.jpg   //å°†ç›®å½•é‡Œæ‰€æœ‰jpgæ–‡ä»¶æ‰“åŒ…æˆjpg.taråï¼Œå¹¶ä¸”å°†å…¶ç”¨gzipå‹ç¼©ï¼Œç”Ÿæˆä¸€ä¸ªgzipå‹ç¼©è¿‡çš„åŒ…ï¼Œå‘½åä¸ºjpg.tar.gz
 
-tar -cjf jpg.tar.bz2 *.jpg //½«Ä¿Â¼ÀïËùÓĞjpgÎÄ¼ş´ò°ü³Éjpg.tarºó£¬²¢ÇÒ½«ÆäÓÃbzip2Ñ¹Ëõ£¬Éú³ÉÒ»¸öbzip2Ñ¹Ëõ¹ıµÄ°ü£¬ÃüÃûÎªjpg.tar.bz2
+tar -cjf jpg.tar.bz2 *.jpg //å°†ç›®å½•é‡Œæ‰€æœ‰jpgæ–‡ä»¶æ‰“åŒ…æˆjpg.taråï¼Œå¹¶ä¸”å°†å…¶ç”¨bzip2å‹ç¼©ï¼Œç”Ÿæˆä¸€ä¸ªbzip2å‹ç¼©è¿‡çš„åŒ…ï¼Œå‘½åä¸ºjpg.tar.bz2
