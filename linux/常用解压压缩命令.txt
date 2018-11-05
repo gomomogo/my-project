@@ -1,13 +1,13 @@
 ﻿——————————————————解压
 tar -xvf file.tar //解压 tar包
 
-tar -xzvf file.tar.gz //解压tar.gz
+tar -xzvf file.tgz //解压tar.gz,也就是tgz
 
 tar -xjvf file.tar.bz2   //解压 tar.bz2
 
 ——————————————————压缩
 tar -cvf jpg.tar *.jpg //将目录里所有jpg文件打包成tar.jpg 
 
-tar -czf jpg.tar.gz *.jpg   //将目录里所有jpg文件打包成jpg.tar后，并且将其用gzip压缩，生成一个gzip压缩过的包，命名为jpg.tar.gz
+tar -czf jpg.tar.gz *.jpg   //将目录里所有jpg文件打包成jpg.tar后，并且将其用gzip压缩，生成一个gzip压缩过的包，命名为jpg.tgz
 
 tar -cjf jpg.tar.bz2 *.jpg //将目录里所有jpg文件打包成jpg.tar后，并且将其用bzip2压缩，生成一个bzip2压缩过的包，命名为jpg.tar.bz2
